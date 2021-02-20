@@ -26,7 +26,7 @@
 
 デモ
 =============
-![demoimage](FuruSimKisekaeDemo.png)
+![demoimage](resources/FuruSimKisekaeDemo.png)
 
 
 クレジット:
