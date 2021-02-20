@@ -1,3 +1,13 @@
+/*!
+ * contents.js
+ * Copyright (c) 2021 deercracker
+ *
+ * Released under the MIT license.
+ * see https://opensource.org/licenses/MIT
+ *
+ * The inherits function is:
+ * ISC license | https://github.com/deercracker/FuruSimKisekae/blob/main/LICENSE
+ */
 'use strict';
 const cardAry = [
   '01-yurina', '02-saine', '03-himika', '04-tokoyo', '05-oboro', '06-yukihi', '07-shinra', '08-hagane',
